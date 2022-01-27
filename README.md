@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1saurabhkumar1" alt="1saurabhkumar1" /></a> </p>
 
-- 🌱 I’m currently learning **ExpressJS , Swagger , React , SQL , MongoDB**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **saurabhku463@gmail.com**
 
